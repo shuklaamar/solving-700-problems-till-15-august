@@ -5,3 +5,5 @@ solved problems:
 1) EOEO on code chef, 
 2) CHFICRM on code chef, 
 3) EVENM on code chef
+# Day 2,date : Jun 11
+XOR sum on heacker earth
