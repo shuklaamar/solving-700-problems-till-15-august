@@ -1,4 +1,4 @@
-# solving-700-problems-till-15-august
+# solving-700-problems-till-30-august
 I will describe my progress
 # Day 1 ,date : Jun 10 
 solved problems: 
