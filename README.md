@@ -6,8 +6,8 @@ solved problems:
 2) CHFICRM on code chef, 
 3) EVENM on code chef
 # Day 2,date : aug 12
-XOR sum on heacker earth
+1) XOR sum on heacker earth
 # Day 3, date : aug 15
-2 sum on leetcode,
-linked list sum on leetcode,
-valid parethesis on leetcode,
+1) 2 sum on leetcode,
+2) linked list sum on leetcode,
+3)  valid parethesis on leetcode,
